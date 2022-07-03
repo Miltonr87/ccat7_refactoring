@@ -6,4 +6,3 @@ test("Deve calcular o valor da corrida normal", () => {
     expect(fare).toBe(21);
     // pode retornar .toThrow("Erro Fulano de Tal") para verificar se ocorreu algum erro e não devolver um valor qualquer
 })
-
